@@ -1,0 +1,858 @@
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Register.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Downloads\Acomes yay\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\PPK\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Downloads\Acomes Agoes\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\Zakia\Downloads\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\progress login student , nampilin nama student , database clear, cek ya gan\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\Kuliah\PPK\project ppk\fix ini\Acomes\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\progress 2\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\Zakia\Downloads\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Videos\yang tadi apus aja ya\update terbaru tambahin disini ya\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Videos\yang tadi apus aja ya\presentasi project\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Videos\yang tadi apus aja ya\revisian schedule udah\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Videos\revisian\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\PPK\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Videos\revisian-edit account kelar\revisian-edit account kelar\revisian\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\PPK\ada yang w ganti dikit\revisian\Acomes\Acomes\obj\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\bin\Debug\Acomes.exe.config
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\bin\Debug\Acomes.exe
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\bin\Debug\Acomes.pdb
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.about.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.exe
+C:\Users\ASUS\Videos\revisian lagi themenya\revisian\Acomes\Acomes\obj\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\bin\Debug\Acomes.exe.config
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\bin\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\bin\Debug\Acomes.pdb
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\bin\Debug\MySql.Data.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\bin\Debug\Google.Protobuf.dll
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\bin\Debug\MySql.Data.xml
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.csprojAssemblyReference.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.about_us_teacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.about.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.AddHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.AddSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.AllHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Delete.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Deleteteacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.ForgetPassword.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Seting.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.setingTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.edit_akun.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.EditSchedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Loginpage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Homepage.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.HomepageTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.HomeworkSched2.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.InputNilai.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.InputPerStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Properties.Resources.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Raport.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Schedule.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.ScheduleHaventJoin.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.ScheduleTeacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.SignUpPick.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Student.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.StudentRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.TeacherEditAcc.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.TeacherRegist.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.Textsize.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.textsizeteacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.theme.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.themeteacher.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.UpdateHomework.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.ViewStudent.resources
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.csproj.GenerateResource.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.csproj.CoreCompileInputs.cache
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.csproj.CopyComplete
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.exe
+D:\kuliah\tugas\tugas kuliah semester 5\pemograman platform khusus\project visual studio\final progress sebelum uts\temanya belum kelar\Acomes\Acomes\obj\Debug\Acomes.pdb
